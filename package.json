@@ -1,9 +1,8 @@
 {
-    "name": "exfil",
+    "name": "exfil-app",
     "version": "3.0.0",
-    "packageType": "mods",
-    "main": "exfil.js",
-    "serviceFile": "exfil.js",
+    "packageType": "app",
     "appName": "TV Exfil",
-    "description": "System data collection v3"
+    "appPath": "index.html",
+    "description": "Tizen system data collection"
 }

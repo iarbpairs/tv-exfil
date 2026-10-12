@@ -1,0 +1,9 @@
+{
+    "name": "exfil",
+    "version": "3.0.0",
+    "packageType": "mods",
+    "main": "exfil.js",
+    "serviceFile": "exfil.js",
+    "appName": "TV Exfil",
+    "description": "System data collection v3"
+}
